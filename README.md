@@ -50,7 +50,7 @@ This program was my very first programming project as well as my final project f
             - Double-click on the Love installer. When the prompt "Windows protected your PC" appears, select "more info" and click on "Run anyway" to proceed with the installation
     - download the GrafCoordinate.zip 
     - after the download is completed, 
-        - either right click on the GrafCoordinate.zip and choose "open with" and select Löve![openWith](https://github.com/T-kolberg/Graf-Coordinate/assets/151522655/e4c1bd8c-19e2-4eec-94b4-9965384973d5)
+        - either right click on the GrafCoordinate.zip and choose "open with" and select Löve [openWith](https://github.com/T-kolberg/Graf-Coordinate/assets/151522655/e4c1bd8c-19e2-4eec-94b4-9965384973d5)
 
         - or enable file name extensions under the explorer's view tab
             - change the GrafCoordinate.zip to GrafCoordinate.love
