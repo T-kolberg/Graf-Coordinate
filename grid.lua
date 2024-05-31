@@ -146,6 +146,7 @@ function grid.gridSize(variables, controls, gridTable)
             end
         end
     end
+    return
 end
 
 
