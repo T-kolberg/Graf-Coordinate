@@ -48,10 +48,11 @@ This program was my very first programming project as well as my final project f
         - If you wish to continue installing Love2D
             - Download the Love2D installer (version 11.5) from the [official Love2D website](https://www.love2d.org/)
             - Double-click on the Love installer. When the prompt "Windows protected your PC" appears, select "more info" and click on "Run anyway" to proceed with the installation
-    - download the GrafCoordinate.zip 
-    - after the download is completed, 
+    - Download the GrafCoordinate.zip and extract the lose files
+    - Select the loose files, right click on one of the selected files and choose the option "send to" and select "compressed (zipped) folder" to compress the files into a single zip file
+    - After compressing the files into a single zip file,
         - either right click on the GrafCoordinate.zip, choose "open with" and select Löve
-        - or enable file name extensions under the explorer's view tab
+        - or enable the "file name extensions" in Windows inside the Explorer's View tab 
             - change the GrafCoordinate.zip to GrafCoordinate.love
             - double-click on GrafCoordinate.love
         
