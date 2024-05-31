@@ -1,5 +1,6 @@
 
-# Graf Coordinate
+# Graf Coordinate![demo](https://github.com/T-kolberg/Graf-Coordinate/assets/151522655/3d48207b-a228-4891-afb0-ec9aeef765da)
+
 
 The Graf Coordinate uses the Löve framework and allows users to draw objects and return their coordinates based on the love.graphics functions. Users can either draw an object or redraw a shape presented in an image by dragging the image into the program. The latest coordinates can then be viewed at the top right-hand side of the menu, or by dragging an empty .txt file into the program. This stores the information needed for the corresponding function in the .txt file.
 
