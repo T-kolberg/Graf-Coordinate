@@ -89,8 +89,7 @@ When an image or .txt file is being dragged into the program, it may occur that 
 - Removing unnecessary code
     - I was close to finishing my final project when I realized that the functions responsible for the button color changes at hover and click events might also handle the execution of the corresponding functions by simply changing a boolean. If it works as intended, it would render certain functions obsolete and improve efficiency.
 - Handling the mutation of variables differently
-    - Variables that are used between different functions are currently storing their values inside tables to allow mutation when passing them as parameters through functions
-    - This is not ideal, but I couldn't find a better solution at that moment
+    - Variables that are used between different functions are currently storing their values inside tables to allow mutation when passing them as parameters through functions. This is not ideal, but I couldn't find a better solution at that moment.
 
 
 ## Reflection
