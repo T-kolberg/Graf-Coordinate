@@ -9,7 +9,7 @@ The Graf Coordinate uses the Löve framework and allows users to draw objects an
 
 ## Introduction
 
-This program was my very first programming project as well as my final project for CS50. It started as a small program that I used to visualize the Löve mesh function and its different modes, for example "fan", "strip", and "triangles". It also provided me with the coordinates for the collision detection by roughly redrawing the shapes of objects. This led me to my decision to expand this program and use it as my final project. 
+This program was my first programming project of this size, as well as my final project for CS50. It started as a small program that I used to visualize the Löve mesh function and its different modes, for example "fan", "strip", and "triangles". It also provided me with the coordinates for the collision detection by roughly redrawing the shapes of objects. This led me to my decision to expand this program and use it as my final project. 
 
 
 ## List of features
