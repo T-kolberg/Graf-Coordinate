@@ -61,7 +61,7 @@ function func.changeBrightness(color, controls, buttonTable)
 end
 
 
--- create a shallow of the provided color
+-- create a shallow copy of the provided color
 function func.copyColor(color, colorTable)
     if colorTable.color[color] then
         -- with help from bing's copilot since I didn't know "unpack()" can be used for deep copying
